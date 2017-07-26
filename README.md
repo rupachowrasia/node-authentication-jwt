@@ -9,15 +9,13 @@
     $ npm install jsonwebtoken --save
     ```
 - File structure would be like :
-    > package.json
-      config.js
-      server.js
-      models/user.js
+    >  package.json
+    >  config.js
+    >  server.js
+    >  models/user.js
 - First comment off the route middleware code
-- Then run this route in postman
-    > /api/setup
-- Then run this route in postman, and copy the token
-    > /api/authenticate
-
- ## That's it, enjoy!
+- Then navigate to this route(/api/setup)  in postman, then run this route(/api/authenticate) and copy the token.
+- Uncomment the route middleware code.
+- Now try to access other routes that is defined.
+ ##### This is very simple app just to demonstarte how token works in node.
 

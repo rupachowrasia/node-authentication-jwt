@@ -17,5 +17,5 @@
 - Then navigate to this route(/api/setup)  in postman, then run this route(/api/authenticate) and copy the token.
 - Uncomment the route middleware code.
 - Now try to access other routes that is defined.
- ##### This is very simple app just to demonstarte how token works in node.
+ ##### This is very simple app just to demonstarte how token works in nodejs.
 
